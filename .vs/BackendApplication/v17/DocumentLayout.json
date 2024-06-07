@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\allah\\Source\\Repos\\BackendApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F69E6E76-F8EC-4189-91DB-B5D671360BA2}|BackendApplication\\BackendApplication.csproj|c:\\users\\allah\\source\\repos\\backendapplication\\backendapplication\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69E6E76-F8EC-4189-91DB-B5D671360BA2}|BackendApplication\\BackendApplication.csproj|solutionrelative:backendapplication\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69E6E76-F8EC-4189-91DB-B5D671360BA2}|BackendApplication\\BackendApplication.csproj|c:\\users\\allah\\source\\repos\\backendapplication\\backendapplication\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69E6E76-F8EC-4189-91DB-B5D671360BA2}|BackendApplication\\BackendApplication.csproj|solutionrelative:backendapplication\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69E6E76-F8EC-4189-91DB-B5D671360BA2}|BackendApplication\\BackendApplication.csproj|c:\\users\\allah\\source\\repos\\backendapplication\\backendapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69E6E76-F8EC-4189-91DB-B5D671360BA2}|BackendApplication\\BackendApplication.csproj|solutionrelative:backendapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69E6E76-F8EC-4189-91DB-B5D671360BA2}|BackendApplication\\BackendApplication.csproj|c:\\users\\allah\\source\\repos\\backendapplication\\backendapplication\\flights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69E6E76-F8EC-4189-91DB-B5D671360BA2}|BackendApplication\\BackendApplication.csproj|solutionrelative:backendapplication\\flights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69E6E76-F8EC-4189-91DB-B5D671360BA2}|BackendApplication\\BackendApplication.csproj|c:\\users\\allah\\source\\repos\\backendapplication\\backendapplication\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69E6E76-F8EC-4189-91DB-B5D671360BA2}|BackendApplication\\BackendApplication.csproj|solutionrelative:backendapplication\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69E6E76-F8EC-4189-91DB-B5D671360BA2}|BackendApplication\\BackendApplication.csproj|c:\\users\\allah\\source\\repos\\backendapplication\\backendapplication\\backendapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F69E6E76-F8EC-4189-91DB-B5D671360BA2}|BackendApplication\\BackendApplication.csproj|solutionrelative:backendapplication\\backendapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\BackendApplication\\BackendApplication\\Flight.cs",
+              "RelativeDocumentMoniker": "BackendApplication\\Flight.cs",
+              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\BackendApplication\\BackendApplication\\Flight.cs",
+              "RelativeToolTip": "BackendApplication\\Flight.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:13:20.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Flights.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\BackendApplication\\BackendApplication\\Flights.cs",
+              "RelativeDocumentMoniker": "BackendApplication\\Flights.cs",
+              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\BackendApplication\\BackendApplication\\Flights.cs",
+              "RelativeToolTip": "BackendApplication\\Flights.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:07:35.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BackendApplication",
+              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\BackendApplication\\BackendApplication\\BackendApplication.csproj",
+              "RelativeDocumentMoniker": "BackendApplication\\BackendApplication.csproj",
+              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\BackendApplication\\BackendApplication\\BackendApplication.csproj",
+              "RelativeToolTip": "BackendApplication\\BackendApplication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T07:44:18.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\BackendApplication\\BackendApplication\\Users.cs",
+              "RelativeDocumentMoniker": "BackendApplication\\Users.cs",
+              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\BackendApplication\\BackendApplication\\Users.cs",
+              "RelativeToolTip": "BackendApplication\\Users.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:47:30.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\BackendApplication\\BackendApplication\\User.cs",
+              "RelativeDocumentMoniker": "BackendApplication\\User.cs",
+              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\BackendApplication\\BackendApplication\\User.cs",
+              "RelativeToolTip": "BackendApplication\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:44:36.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\allah\\Source\\Repos\\BackendApplication\\BackendApplication\\Program.cs",
+              "RelativeDocumentMoniker": "BackendApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\allah\\Source\\Repos\\BackendApplication\\BackendApplication\\Program.cs",
+              "RelativeToolTip": "BackendApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:26:47.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
